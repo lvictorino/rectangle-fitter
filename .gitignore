@@ -1,0 +1,33 @@
+### Unity directories
+temp
+obj
+library
+
+.cache
+*.log
+fmod*.log
+.vs
+
+### Project
+
+### Visual Studio / MonoDev
+*.pidb*
+*.userprefs*
+*.user*
+*.csproj*
+*.unityproj*
+*.sln*
+*.suo*
+*~
+
+### OS
+.DS_Store*
+.DS_Store?
+._*
+.Trashes*
+Thumbs.db*
+
+### Thirdparty
+
+### Extra
+
